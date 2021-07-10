@@ -1,0 +1,10 @@
+
+
+
+
+Display v1.0.4
+	Corrigido cores de exibição para display pequeno.
+	Acertado os popup message.
+	Contruido o teclado para hora e data com as teclas [:] e [/].
+	Datalog na pagina 28 passado para a pagina 29.
+	Teclado e Liberação de senha em locais errados - CORRIGIDO
